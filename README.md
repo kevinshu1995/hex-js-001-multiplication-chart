@@ -8,7 +8,7 @@
 ## Language
 <ul>
  <li>HTML</li>
- <li>CSS</li>
+ <li>CSS/SCSS</li>
  <li>JavaScript</li>
 </ul>
 
